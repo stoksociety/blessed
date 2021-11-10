@@ -1,18 +1,27 @@
 # {COMRADE}
+ a project about myself
 #### {allows users to use our application easily}, { 2021}
 #### By **{ vinzs ,vangurd, mosquin}**
-## Description{it makes the user feel safe }
+## Description
+* these project is about me and what my day to day life entails what i aspire to be in the near future
 
 ## Setup/Installation Requirements just install the application 
-
+* Git clone {git clone repolink}
+* open folder {cd folder name}
+* initialize git {git init}
 ## Live link 
-## Known Bugs no lnown bugs
+* stoksociety.github.io/blessed/
+## Known Bugs 
+{no known bugs}
 
-## Technologies Used css and HTML
+## Technologies
+* css 
+* HTML
 
-## Support and contact details k.west @runda contacts:0792843536 we will get in touch 
+## Support and contact details
+Email{k.west@runda}
+contacts:0792843536  
 
 ### License
-*{Determine the license under which this application can be used.
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} 
